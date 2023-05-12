@@ -1,0 +1,14 @@
+//generals
+@import 'inputs';
+@import 'mixins';
+@import 'colors';
+
+//pages
+
+@import './pages/register';
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
